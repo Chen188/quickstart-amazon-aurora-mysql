@@ -7,6 +7,6 @@
 |AWS Identity and Access Management (IAM) security groups |2
 |IAM roles |1
 |Auto Scaling groups |1
-|db.r4.large instances |2
+|db.r5.large instances |2
 |t2.micro instances |1
 |===
